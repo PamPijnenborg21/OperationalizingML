@@ -4,6 +4,7 @@
 The goal of this project is to operationalize a Machine Learning project. First, an automated Machine Learning pipeline will be executed, deployed and consumed. The used dataset concerns bank marketing used for a classification problem. AzureML and Python SDK is used in this project. 
 
 ## Architectural Diagram
+![PROJECT 2](https://user-images.githubusercontent.com/54527456/107497465-e8333780-6b92-11eb-8497-f09d30ac2b5c.JPG)
 
 
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
