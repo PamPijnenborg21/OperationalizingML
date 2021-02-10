@@ -5,6 +5,7 @@ The goal of this project is to operationalize a Machine Learning project. First,
 
 ## Architectural Diagram
 ![PROJECT 2](https://user-images.githubusercontent.com/54527456/107497465-e8333780-6b92-11eb-8497-f09d30ac2b5c.JPG)
+The architectural diagram comprises a couple of steps. The first step is to upload the dataset to be used in the Machine Learning algorithm. Thereafter, several Machine Learning algorithms to solve the classification problem are applied in the Automated Machine Learning step. In the third step, when the Automated Machine Learning has finished, the best performing model in terms of accuracy is chosen to be deployed. Azure Container Instance is used for deployment and authentication is applied. Application insights is 'activated' and the documentation is 'activated' using Swagger. The deployed model is consumed by executing a file named endpoint.py. To obtain output, the script has to be executed.
 
 
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
