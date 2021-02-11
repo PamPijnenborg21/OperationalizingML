@@ -63,6 +63,8 @@ Pipelines can include several steps (including AutoML). A pipeline can be publis
 ![Screenshot (47)](https://user-images.githubusercontent.com/54527456/107621392-77555380-6c56-11eb-85c9-8b00d88cc996.png)
 ![Screenshot (62)](https://user-images.githubusercontent.com/54527456/107621571-c00d0c80-6c56-11eb-97d5-3ef5cd1faaaf.png)
 ![Screenshot (63)](https://user-images.githubusercontent.com/54527456/107621635-dc10ae00-6c56-11eb-8346-5de03fc465f3.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/54527456/107646204-fc9e2f80-6c79-11eb-98fa-a138aea7b1d5.png)
+
 
 
 
