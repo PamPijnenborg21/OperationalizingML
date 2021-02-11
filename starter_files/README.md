@@ -32,6 +32,7 @@ The architectural diagram comprises a couple of steps. The first step is to uplo
 ![Screenshot (12)](https://user-images.githubusercontent.com/54527456/107620825-9b646500-6c55-11eb-826c-8b5461f8874d.png)
 
 # Step 6: Consume model endpoint
+![Screenshot (46)](https://user-images.githubusercontent.com/54527456/107620946-c9e24000-6c55-11eb-858c-e2afa31731b6.png)
 
 # Step 7: Create, Publish, and Consume a pipeline
 
