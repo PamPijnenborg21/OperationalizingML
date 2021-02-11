@@ -21,6 +21,9 @@ The architectural diagram comprises a couple of steps. The first step is to uplo
 ![Screenshot (7)](https://user-images.githubusercontent.com/54527456/107620527-1d07c300-6c55-11eb-8394-b7a3401c5a4c.png)
 
 # Step 4: Enable logging
+![Screenshot (16)](https://user-images.githubusercontent.com/54527456/107620647-52141580-6c55-11eb-849a-22b312a646dd.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/54527456/107620649-52acac00-6c55-11eb-83e2-df1116f934f4.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/54527456/107620650-52acac00-6c55-11eb-9c4c-aff2924dcf35.png)
 
 # Step 5: Swagger documentation 
 
