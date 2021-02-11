@@ -26,6 +26,10 @@ The architectural diagram comprises a couple of steps. The first step is to uplo
 ![Screenshot (15)](https://user-images.githubusercontent.com/54527456/107620650-52acac00-6c55-11eb-9c4c-aff2924dcf35.png)
 
 # Step 5: Swagger documentation 
+![Screenshot (9)](https://user-images.githubusercontent.com/54527456/107620821-9acbce80-6c55-11eb-8da3-50743699ceaf.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/54527456/107620822-9b646500-6c55-11eb-9ea3-891c7193aba5.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/54527456/107620823-9b646500-6c55-11eb-96f3-c2cee0939bac.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/54527456/107620825-9b646500-6c55-11eb-826c-8b5461f8874d.png)
 
 # Step 6: Consume model endpoint
 
