@@ -18,6 +18,7 @@ The architectural diagram comprises a couple of steps. The first step is to uplo
 ![Screenshot (5)](https://user-images.githubusercontent.com/54527456/107620406-eaf66100-6c54-11eb-802a-e45c129989b6.png)
 
 # Step 3: Deploy best model
+![Screenshot (7)](https://user-images.githubusercontent.com/54527456/107620527-1d07c300-6c55-11eb-8394-b7a3401c5a4c.png)
 
 # Step 4: Enable logging
 
