@@ -36,9 +36,14 @@ The architectural diagram comprises a couple of steps. The first step is to uplo
 
 # Step 7: Create, Publish, and Consume a pipeline
 
+![Screenshot (60)](https://user-images.githubusercontent.com/54527456/107621309-5260e080-6c56-11eb-99f6-9ae7c3523cd8.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/54527456/107621341-63115680-6c56-11eb-8038-8ae57d6bca30.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/54527456/107621392-77555380-6c56-11eb-85c9-8b00d88cc996.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/54527456/107621571-c00d0c80-6c56-11eb-97d5-3ef5cd1faaaf.png)
+![Screenshot (63)](https://user-images.githubusercontent.com/54527456/107621635-dc10ae00-6c56-11eb-8346-5de03fc465f3.png)
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+https://youtu.be/T-6zzHCohQU
 
 ## Standout Suggestions
 - The dataset is imbalanced. This can be fixed by for instance creating more data of the smallest class (in case of classification problem).
