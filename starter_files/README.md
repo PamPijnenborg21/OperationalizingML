@@ -12,6 +12,10 @@ The architectural diagram comprises a couple of steps. The first step is to uplo
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
 # Step 2: AutoML experiment 
+![Screenshot (2)](https://user-images.githubusercontent.com/54527456/107620400-e9c53400-6c54-11eb-9dc4-e24ba77bc44d.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/54527456/107620404-ea5dca80-6c54-11eb-82d0-f59a90683764.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/54527456/107620405-ea5dca80-6c54-11eb-9708-ab86d298499b.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/54527456/107620406-eaf66100-6c54-11eb-802a-e45c129989b6.png)
 
 # Step 3: Deploy best model
 
